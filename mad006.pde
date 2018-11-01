@@ -21,6 +21,6 @@ void draw() {
   }
   j++;
   if (j<=360) {
-    saveFrame("gif/mad005-######.png");
+    saveFrame("gif/mad006-######.png");
   }
 }
